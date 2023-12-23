@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-23T12:02:27.509Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Qh8QEwVeJwAJVz7EH6Pq" version="22.1.11" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-12-23T12:04:30.531Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ksqCWhX3jxYUi7rVUeco" version="22.1.11" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2632" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -774,7 +774,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kMBmSuLnW5vmjzjLMCqj-1" value="Commande" style="swimlane;fontStyle=3;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fontSize=17;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="-413" y="850" width="160" height="26" as="geometry">
+          <mxGeometry x="-350" y="860" width="160" height="26" as="geometry">
             <mxRectangle x="-410" y="-20" width="325" height="300" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
